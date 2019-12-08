@@ -19,6 +19,7 @@ public class FindElementsTest {
         //to click on the element
         button.click();
        String actualTitle = driver.getTitle();
+
        if(actualTitle.equals(expectedTitle)){
            System.out.println("test passed");
        }else{

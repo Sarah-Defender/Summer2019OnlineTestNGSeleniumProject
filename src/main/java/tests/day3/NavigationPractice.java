@@ -16,6 +16,7 @@ public class NavigationPractice {
         driver.navigate().back();
         //move forward to amazon again
         driver.navigate().forward();
+
         //to refresh a webpage/website
         driver.navigate().refresh();
         //shutdown browser
