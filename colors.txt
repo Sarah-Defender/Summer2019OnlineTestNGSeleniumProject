@@ -1,0 +1,18 @@
+blue
+red
+green
+black
+yellow
+purple
+navy blue
+pink
+white
+orange
+cyan
+Azure
+French rose
+Cyber yellow
+gold
+Fuchsia
+French violet
+flame
